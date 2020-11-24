@@ -24,7 +24,9 @@ Summary of findings from test: The main takeaway was making sure everything is a
 
 Explaination regarding design: 
 
-Colors - I choose to use very little color in my design, the color contract plugin I was using in Figma seemed to dislike my use of colors which was a factor in why I made my choice. I generally stuck to grew, black and white with a bit of red and navy. I mainly focused on making sure everything was clearly legible, as simple as possible and asethetically pleasing. Here are the links to the color contract and the changes I made. Going into next week I'm going to choose a more sophisticated color palate in order to make the app more visually pleasing. 
+Colors - I choose to use very little color in my design, the color contrast plugin I was using in Figma seemed to dislike my use of colors which was a factor in why I made my choice. I generally stuck to grew, black and white with a bit of red and navy. I mainly focused on making sure everything was clearly legible, as simple as possible and asethetically pleasing. Here are the links to the color contract and the changes I made. Going into next week I'm going to choose a more sophisticated color palate in order to make the app more visually pleasing. 
+
+Links to three color contrast test I conducted in Figma:
 
 https://drive.google.com/file/d/1qX-51BIX9TOFuhSgNraX0whpIQdCnASo/view?usp=sharing
 https://drive.google.com/file/d/1xy6NqK7bR9bUBMQPv1uQcGuur5lD_vum/view?usp=sharing
