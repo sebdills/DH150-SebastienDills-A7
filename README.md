@@ -42,5 +42,9 @@ Word Choice - I used as little words as possible, only using long lines of text 
 
 https://www.figma.com/proto/cHc0p13fRdN5DNDySbDFqk/DH150-Assignment-7?node-id=3%3A0&scaling=scale-down
 
+#### Cognitive Walkthrough 
+
+
+
 
 
