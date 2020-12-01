@@ -44,7 +44,13 @@ https://www.figma.com/proto/cHc0p13fRdN5DNDySbDFqk/DH150-Assignment-7?node-id=3%
 
 #### Cognitive Walkthrough 
 
+https://drive.google.com/file/d/15FsNUeEsDjJeuvAmt28ZVfW3UcF1JIbm/view?usp=sharing
 
+The main findings I had from this exersize were that I was successful in making my website reminisent and stylistically similar to other. This allowed the user to navigate the site efficiently even without explicit documentation. This was a conscious choice I made so I was happy it paid off. The main issue I found was that the user was frusterated by the lack of freedom within the app. I didn't take the time to add wireframes for every single possible combinations of events and instead focused on all the basic design features. I can see how the user was frusterated by this as it made the experience feel less app-like. 
+
+#### Reflection
+
+My first and the most important step in the process was the design of the wireframe. I am happy with how it turned out it took me many hours to get everything working the way I wanted to and to figure out how Figma works. While I am proud of my design and the functionality of it I would still make a few design changes in hindsite. For example the sample screen I choose to use was from an iPhone with a non rectangular screen. Because of this what I designed was not optimum for the screen shape, but by the time I realized this I would have needed to re-do the whole project, making it not worth my time. That was a point of frustration, but other than that nothing stands out as warranting major change. I was wish I knew more about Figma as a flatform so I could more easily copy and modify slides. At the begining I was starting with each slide as a blank slate instead of working off older ones. Just having more familiarity with Figma would've made the process so much easier. Based on the prototype testing I would add more colors and clean up the deisgn a little. I am confident in the design in the sense that anyone could navigate it, but both of my users said that the wish the design was a bit more visually appealing. 
 
 
 
