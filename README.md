@@ -12,10 +12,10 @@ My DH 150 project analyzes and improves upon design features of several clothing
 The user persona could be literally anyone but I've chosen to stick with a college age female. This is the demographic I've interviewed for each step of the process up to this point so it makes sense to do things this way. In addition this is a demographic that I think highly represents my app/company values. 
 
 Link to screenshot of Wireframe:
-https://drive.google.com/file/d/1SjUJPwx3TSvZE41YqiSPGJfcavsDtFUZ/view?usp=sharing
+https://drive.google.com/file/d/1FM50Q7BtB9B_pMZUxKIL6BKTPFtLb_Xq/view?usp=sharing
 
 Link to screenshot of Wireflow:
-https://drive.google.com/file/d/1ZkNMbdfZH7cQl_zcOVs3vQxc3L4VEZ8N/view?usp=sharing
+https://drive.google.com/file/d/1xS17BQ7ywH2RrB8W7a_GNRNxiyCwR96v/view?usp=sharing
 
 Link to video of test:
 https://drive.google.com/file/d/1HqhOC_oKKMnYBSi8lhi_ZeVg2qcx2xoR/view?usp=sharing
@@ -51,6 +51,12 @@ The main findings I had from this exersize were that I was successful in making 
 #### Reflection
 
 My first and the most important step in the process was the design of the wireframe. I am happy with how it turned out it took me many hours to get everything working the way I wanted to and to figure out how Figma works. While I am proud of my design and the functionality of it I would still make a few design changes in hindsite. For example the sample screen I choose to use was from an iPhone with a non rectangular screen. Because of this what I designed was not optimum for the screen shape, but by the time I realized this I would have needed to re-do the whole project, making it not worth my time. That was a point of frustration, but other than that nothing stands out as warranting major change. I was wish I knew more about Figma as a flatform so I could more easily copy and modify slides. At the begining I was starting with each slide as a blank slate instead of working off older ones. Just having more familiarity with Figma would've made the process so much easier. Based on the prototype testing I would add more colors and clean up the deisgn a little. I am confident in the design in the sense that anyone could navigate it, but both of my users said that the wish the design was a bit more visually appealing. 
+
+#### Prior Version
+wireflow: https://drive.google.com/file/d/13I2CbB13Xh23sy-7PEXIRVha6Fb5BTH0/view?usp=sharing
+wireframe: https://drive.google.com/file/d/1WWOrOJle9upmJpquSdJBVCE-nb1vyz2N/view?usp=sharing
+
+
 
 
 
